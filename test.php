@@ -6,6 +6,4 @@ echo 'woshishui';
 echo 'one3';
 echo 'one4';
 
-echo 'two3';;
-
-
+echo 'two3';
